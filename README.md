@@ -6,7 +6,7 @@ This project leverages **10 seasons (2016-2026)** of Premier League data to pred
 ### 🧠 Mathematical Approach
 - **Data Consolidation:** Aggregated 10 distinct CSV datasets into a single longitudinal master file.
 - **Temporal Sorting:** Normalized date formats to ensure chronological integrity.
-- [cite_start]**Feature Engineering:** Implemented rolling averages for key performance indicators (KPIs) like Shots on Target (HST/AST) and Goals (FTHG/FTAG)[cite: 8].
+- **Feature Engineering:** Implemented rolling averages for key performance indicators (KPIs) like Shots on Target (HST/AST) and Goals (FTHG/FTAG).
 - **Classification:** Utilized an ensemble method to mitigate variance in high-stochasticity sports data.
 
 ## 📈 Key Results
@@ -15,7 +15,7 @@ This project leverages **10 seasons (2016-2026)** of Premier League data to pred
 
 ## 🛠️ Tools Used
 - **Python:** Pandas, Scikit-Learn, Matplotlib, Seaborn
-- [cite_start]**Data Source:** [Football-Data.co.uk](http://www.football-data.co.uk/) [cite: 22]
+- **Data Source:** [Football-Data.co.uk](http://www.football-data.co.uk/) 
 
 ## 📝 Conclusion & Future Work
 While shot volume and market odds are strong predictors, future iterations will explore:
